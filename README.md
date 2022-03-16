@@ -1,2 +1,2 @@
 # Kuyumcu-otomasyon
-vvdvvdfvbfxdbxbxb
+
