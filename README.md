@@ -26,4 +26,5 @@ sürece kalan ürünleri tek tek saymaya gerek kalmayacaktır ve kalan ürün bi
 müşteriler karşısında daha profesyonel gözükecek müşteri gözünde daha kurumsal bi görüntüye kavuşacak.
 
 
-  
+  #kullanılacak Diller
+  C# (veri tabanlı)
