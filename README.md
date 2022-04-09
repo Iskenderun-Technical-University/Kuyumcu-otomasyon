@@ -27,4 +27,5 @@ müşteriler karşısında daha profesyonel gözükecek müşteri gözünde daha
 
 
   #kullanılacak Diller
+  
   C# (veri tabanlı)
